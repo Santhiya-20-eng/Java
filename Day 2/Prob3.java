@@ -3,11 +3,11 @@
 public class Prob3 {
     public static void main(String[] args) {
         int n=3456;
-        int n=0;
-        for(int n=1;n>0;n++)
+        int s=0;
+        for(int i=1;n>0;n++){
     }
  {
-       n ++;
+        i++;
  }
     
 }
