@@ -7,7 +7,7 @@ public class Prob3 {
         for(int n=1;n>0;n++)
     }
  {
-    count
+       n ++;
  }
     
 }
