@@ -20,9 +20,4 @@ public class Power {
             }
             System.out.println(box);
         }
-
-         
-            
-        
-        }
-        
+    }
